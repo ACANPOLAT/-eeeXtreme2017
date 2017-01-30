@@ -1,2 +1,2 @@
 # -eeeXtreme2017
-İeeeXtreme2017 Turkey camp notes
+This repo include challenges and solves, daily algorith class notes, obtained from IEEEXTREME HACKHATON Preparation Camp organized by Istanbul Technical University between 30 Jan.- 3. Feb 2017
